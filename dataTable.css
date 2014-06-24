@@ -1,0 +1,32 @@
+.hidden{
+	display:none;
+}
+input {
+	width:60%;
+}
+.remove-range{
+	background-color:#f2dede;
+}
+.tools {
+	display:inline-block;
+	float:right;
+}
+.btn {
+	padding:3px;
+	margin-right: 5px;
+}
+table {
+	table-layout: fixed;
+}
+table td{
+	overflow: hidden;
+	height:48px;
+	
+}
+table td span {
+	vertical-align: middle;
+}
+.edit-tools {
+	display:inline-block;
+	float:right;
+}
